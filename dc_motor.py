@@ -1,3 +1,4 @@
+import math
 from gpiozero import Motor
 
 class dc_motor:
